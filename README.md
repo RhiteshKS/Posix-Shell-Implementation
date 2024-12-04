@@ -28,4 +28,10 @@ A custom **POSIX-compliant shell** implemented in **C/C++**, supporting multiple
 - **Environment**: Compatible with Linux/Unix systems.
 
 ---
+## Installation
 
+The Makefile is in the same directory as main.cpp. Then, you can open a terminal, navigate to the directory containing both the Makefile and main.cpp, and use the following commands:
+
+To compile the program: make
+To run the program: make run
+To clean up (remove the executable): make clean
